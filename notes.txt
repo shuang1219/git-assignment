@@ -1,0 +1,4 @@
+Things I learned about Git:
+- How to initialize a repository
+- How to stage and commit changes
+
